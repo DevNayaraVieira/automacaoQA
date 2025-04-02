@@ -1,0 +1,10 @@
+{
+    "apiUrl": "https://staging.exemplo.com",
+    "logLevel": "info",
+    "enableMocks": false,
+    "testCoverage": {
+        "minBranch": 75,
+        "minFunction": 75,
+        "minLine": 75
+    }
+}
