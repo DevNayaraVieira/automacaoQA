@@ -6,7 +6,7 @@
 
 > Plataforma web moderna e eficiente para execução, monitoramento e análise de testes de API RESTful com interface intuitiva e métricas em tempo real.
 
-![GIF do Projeto Funcionando](/frontend/img/qa.gif)
+![GIF do Projeto Funcionando](qa.gif)
 
 ## 📋 Sumário
 
@@ -188,4 +188,4 @@ Desenvolvido por [DevNayaraVieira](https://portfolio-devnayaravieira.netlify.app
 
 ---
 
-🔗 **[GitHub](https://github.com/seu-usuario/automacao-qa)** | 🌐 **[Demo Live](https://automacao-qa-demo.netlify.app)**
+🔗 **[GitHub](https://github.com/devnayaravieira/automacaoQA)** 
